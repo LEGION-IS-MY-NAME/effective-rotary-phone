@@ -40,4 +40,3 @@ map:
 ports: {}
 ports_description: {}
 apparmor: false
-image: null
